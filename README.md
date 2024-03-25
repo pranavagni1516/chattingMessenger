@@ -1,8 +1,8 @@
 # MERN Stack CHATTING Project 
-# ```Built and Deployed a Real-Time Chat App using JWT, Socket.io ```
-
+# ``` Built and Deployed a Real-Time Chat App using JWT, Socket.io ```
+[Open App ](https://chattingmessenger.onrender.com/)  -- test username:jc1 password:123456
 ![Demo App](https://github.com/pranavagni1516/chattingMessenger/blob/main/demo.png?raw=true)
-[Check Out ](https://chattingmessenger.onrender.com/)
+
 Some Features:
 
 -   🌟 Tech stack: MERN + TailwindCSS + Socket.io + Daisy UI
